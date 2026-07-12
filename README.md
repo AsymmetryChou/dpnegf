@@ -1,5 +1,12 @@
 # DPNEGF
 
+> ⚠️ **IMPORTANT NOTICE**
+> 
+> **[English]** 
+> This repository is no longer actively maintained. `dpnegf` has officially joined the **Deepmodeling** open-source community! All future development, updates, and maintenance (including GPU support and performance optimizations) will take place in our new repository.
+> 👉 **Please visit our new home: [deepmodeling/dpnegf](https://github.com/deepmodeling/dpnegf)**
+> 
+
 **DPNEGF** is a Python package that integrates the Deep Learning Tight-Binding (**DeePTB**) approach with the Non-Equilibrium Green’s Function (**NEGF**) method, establishing an efficient quantum transport simulation framework **DeePTB-NEGF** with first-principles accuracy. 
 
 By using DeePTB-SK or DeePTB-E3—both available within the DeePTB package—DeePTB-NEGF can compute quantum transport properties in open-boundary systems with either environment-corrected **Slater-Koster TB Hamiltonian** or **linear combination of atomic orbitals (LCAO) Kohn-Sham Hamiltonian**.
